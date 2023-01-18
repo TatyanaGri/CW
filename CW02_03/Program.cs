@@ -14,4 +14,3 @@ while (index < n)
     }
     index ++;
 }
-
